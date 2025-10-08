@@ -155,3 +155,9 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.footer.footer-compact { padding: 0.75rem 1rem; }
+.footer.footer-compact .content { margin: 0; }
+.footer.footer-compact .content p { margin: 0.25rem 0; line-height: 1.3; }
+.footer.footer-compact .content p:last-child { margin-bottom: 0; }
+
