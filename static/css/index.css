@@ -156,6 +156,11 @@ body {
   border-radius: 5px;
 }
 
+/* Reduce top padding for all sections (optional smaller) */
+.section {
+  padding-top: 1rem;   /* smaller than the default */
+}
+
 .footer.footer-compact { padding: 0.75rem 1rem; }
 .footer.footer-compact .content { margin: 0; }
 .footer.footer-compact .content p { margin: 0.25rem 0; line-height: 1.3; }
